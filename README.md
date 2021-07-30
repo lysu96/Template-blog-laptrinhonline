@@ -1,2 +1,2 @@
 # Xem đề Demo tại đây
-Demo Template blog laptrinhonline: https://www.laptrinhonline.xyz/
+Demo Template blog: https://www.laptrinhonline.xyz/
